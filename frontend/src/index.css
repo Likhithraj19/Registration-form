@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* @layer utilities {
+    .shadow-glow:hover {
+      box-shadow: 0 0 10px 0 rgba(66, 153, 225, 0.5);
+    }
+  } */
